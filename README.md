@@ -14,8 +14,6 @@ Interested in
 
 • Urban Analytics
 
-• Land Value Capture
-
 • Transit-Oriented Development
 
 • Hazard Planning
