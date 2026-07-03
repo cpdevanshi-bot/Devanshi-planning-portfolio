@@ -1,4 +1,4 @@
-# Devanshi-planning-portfolio
+# Devanshi-planning-thesis
 Urban Planning | GIS | Machine Learning | Spatial Analytics
 # Hi!
 
